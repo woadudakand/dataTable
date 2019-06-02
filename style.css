@@ -1,0 +1,27 @@
+#wrap{
+	width: 500px;
+	margin: 100px auto;
+}
+.component{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+table{
+	width: 100%;
+}
+.none{
+	display: none;
+}
+.block {
+	display: table-row;
+}
+ul.page{
+	list-style-type: none;
+}
+ul.page li{
+	display: inline-block;
+	cursor: pointer;
+	padding: 5px;
+}
